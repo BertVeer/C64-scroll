@@ -3,7 +3,7 @@ Basic side scroller for C64
 
 ## Compiler
 
-* [64TASS](https://sourceforge.net/projects/tass64) - The web framework used
+* [64TASS](https://sourceforge.net/projects/tass64) - The C64 cross-compiler
 
 ## License
 
