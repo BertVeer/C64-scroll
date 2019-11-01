@@ -1,7 +1,4 @@
 # C64-scroll
-Basic side scroller for the C64
-
-### About
 This is a basic example of how to use raster interrupts and double buffering to achieve smooth scrolling. The workload is spread over 2 frames, so a maximum scrolling speed of 4 pixels/frame can be achieved.
 
 ## Tools
