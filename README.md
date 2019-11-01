@@ -1,10 +1,9 @@
 # C64-scroll
-Basic side scroller for C64
+Basic side scroller for the C64
 
-## Compiler
-
-* [64TASS](https://sourceforge.net/projects/tass64) - The C64 cross-compiler
+## Tools
+* [64TASS](https://sourceforge.net/projects/tass64) - C64 cross-compiler
+* [VICE] (http://vice-emu.sourceforge.net) - C64 emulator
 
 ## License
-
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
